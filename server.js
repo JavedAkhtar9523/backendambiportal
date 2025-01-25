@@ -32,7 +32,7 @@ connectDB();
 
 // Middleware setup
 const allowedOrigins = [
-  "https://moonlit-profiterole-0a13eb.netlify.app", // Frontend URL
+  "https://ambispinetechnologies.netlify.app", // Frontend URL
   "http://localhost:3000",
   "http://localhost:5173",
   // Add any other origins you need
